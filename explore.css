@@ -1,0 +1,35 @@
+body{
+    background-color:cornflowerblue ;
+}
+
+
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.aj{
+            margin-left: 100px;
+         }
+
+
+#premimum{
+    
+    font-size: larger;
+    color: white;   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    
+    color: black;
+    height: 30px;
+    width: 70px;
+    border: 2px solid black;
+}

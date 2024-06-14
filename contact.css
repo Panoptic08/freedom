@@ -1,0 +1,59 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: url('https://wallpapers.com/images/featured/plain-background-0aqx3e65vih1xev1.jpg');
+    /* margin-left: 100px; */
+
+}
+
+header{
+    position: fixed;
+    top: 0px;
+    height: 60px;
+    width: 1370px;
+    background-color: black;
+    text-align: center;
+}
+a{ display: inline-block;
+       color: wheat;
+    text-decoration: none;
+       margin-right: 200px;
+
+}
+
+form{
+    margin-left: 200px;
+    margin-top: 80px;
+    border:2px solid black;
+    height: 600px;
+    width: 900px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 90px;
+    color: black;
+}
+
+footer{
+    margin-top: 4   00px;
+    bottom: 0px;
+    height: 80px;
+    width: 1370px;
+    background-color: black;
+   
+    color: wheat;
+    text-align: center;
+}
+
+#h1{
+    text-align: center;
+    color: black;
+
+}
+#sub{
+    border: 2px dotted black;
+}

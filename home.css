@@ -1,0 +1,139 @@
+
+body {
+    background-image: url('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNnMWh3cm83MGdneXc2YmFzZjA1b3hnYzdvcDR1dzYzbXY0em54MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UGrpkMXipFWQ06IHIM/giphy.gif');
+    background-size: cover;  
+    background-attachment: fixed;
+}
+
+#navbar{
+    height: 60px;
+    background-color: burlywood;
+    border-radius: 25px;
+    width: 50%;
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-right: 78px;
+    color: black;
+    align-content: center;
+}
+
+#hdr{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 0px;
+    height: 60px;
+    width: 98%;
+    background-color: burlywood;
+    color: white;
+    border: 10px solid  grey;
+    margin-bottom: 20px;
+}
+
+
+#h1{
+    position: absolute;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-right: 900px;
+    top: 0px;
+    margin-top: 20px;
+    right: 2px;
+    color: white;
+    display: inline-block;
+}
+h2{
+   color: black;
+
+}
+h1{color: black;
+}
+#atag{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: medium;
+    color: black;
+    margin-left: 100px;
+    margin-right: 180px;
+
+}
+#atag:hover{
+    text-decoration: underline;
+    color: black;
+    transition:red 4s ease 4s ;
+
+}
+
+#ata{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: medium;
+    color: black;
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+
+big{
+    color: black;
+    display: inline;
+    margin-left: 20px;
+}
+table {
+    margin: 0 auto; /* Centers the table */
+    border-collapse: collapse;
+    width: 50%;
+    height: 100px;
+    font-size: medium;
+    color: white;
+}
+
+th, td {
+    /* color: white; */
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+    
+}
+B{
+color: wheat;
+}
+
+
+
+
+
+
+
+
+p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+    font-size: 20px;
+    color: darkblue;
+}
+#ft{
+    display: flex;
+    justify-content: space-around;
+}
+
+#a{
+    position: relative;
+    display: inline-block;
+    right: 10px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 300px;
+    height: 180px;
+    background-color: burlywood;
+}#p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+    font-size: 15px;
+    color: darkblue;
+}
